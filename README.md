@@ -1,4 +1,4 @@
-# TELECOM CHURN CASE STUDY
+# MELANOMA DETECTION CASE STUDY
 <p align="center">
  <img  src="1.png">
 </p>
