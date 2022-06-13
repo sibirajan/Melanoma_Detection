@@ -40,4 +40,3 @@ Visualisation   : Python
 Sibi Rajan 
 
 ## References
-Image - https://medium.com/diogo-menezes-borges/predicting-banks-churn-with-artificial-neural-networks-f48393fb1f9c
