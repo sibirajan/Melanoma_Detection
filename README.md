@@ -27,16 +27,10 @@ Goal is to build a multiclass classification model using a custom convolutional 
 
 ## TECHNOLOGIES USED
 
-Analytical Tool : Python (Libraries : Pandas, Numpy, Matplotlib, Seaborn)
+Analytical Tools / Environments : Google Colab, Python Libraries 
                   
 Visualisation   : Python
 
 
-## CONCLUSION
-
-
-
 ## AUTHOR
 Sibi Rajan 
-
-## References
