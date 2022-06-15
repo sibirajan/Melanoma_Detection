@@ -8,8 +8,7 @@
 * [Overview](#overview)
 * [Business Objectives](#business-objectives)
 * [Technologies Used](#technologies-used)
-* [Conclusion](#conclusion)
-* [Recommendations](#recommendations)
+
 
 
 ## OVERVIEW
